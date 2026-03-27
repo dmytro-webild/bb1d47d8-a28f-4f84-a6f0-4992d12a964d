@@ -52,7 +52,7 @@ export default function LandingPage() {
           text: "Réserver une table",          href: "#contact"},
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/wide-view-dining-hall-classic-design_114579-2224.jpg"
-      videoSrc="https://www.w3schools.com/howto/mov_bbb.mp4"
+      videoSrc="https://www.w3schools.com/howto/mov_bbb.mp4?_wi=1"
     />
   </div>
 
@@ -93,7 +93,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       testimonials={[
         {
-          id: "1",          name: "Sophie Martin",          handle: "@sophie_m",          testimonial: "Une expérience exceptionnelle. Le service était impeccable et la cuisine un pur chef-d'œuvre.",          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-brunette-woman-evening-dress-smiling-holding-champaign-glass_176420-3750.jpg"},
+          id: "1",          name: "Sophie Martin",          handle: "@sophie_m",          testimonial: "Une expérience exceptionnelle. Le service était impeccable et la cuisine un pur chef-d'œuvre.",          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-brunette-woman-evening-dress-smiling-holding-champaign-glass_176420-3750.jpg?_wi=1"},
         {
           id: "2",          name: "Marc Dubois",          handle: "@marcdubois",          testimonial: "KIMIAEAT est devenu mon restaurant préféré. Raffiné, chic et chaleureux.",          imageSrc: "http://img.b2bpic.net/free-photo/young-stylish-handsome-man-suit-street_158538-10215.jpg"},
         {
@@ -101,7 +101,7 @@ export default function LandingPage() {
         {
           id: "4",          name: "Jean Lefebvre",          handle: "@le_gourmet",          testimonial: "Enfin une gastronomie moderne qui respecte le produit brut. Bravo à toute l'équipe.",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-baker-preparing-dough_1170-2284.jpg"},
         {
-          id: "5",          name: "Julie Bernard",          handle: "@julie_b",          testimonial: "Le cadre est tout simplement sublime. Une adresse incontournable pour les gourmets.",          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-brunette-woman-evening-dress-smiling-holding-champaign-glass_176420-3750.jpg"},
+          id: "5",          name: "Julie Bernard",          handle: "@julie_b",          testimonial: "Le cadre est tout simplement sublime. Une adresse incontournable pour les gourmets.",          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-brunette-woman-evening-dress-smiling-holding-champaign-glass_176420-3750.jpg?_wi=2"},
       ]}
       title="Ce que disent nos hôtes"
       description="Des moments inoubliables partagés par nos convives."
@@ -118,7 +118,7 @@ export default function LandingPage() {
       description="Nous avons hâte de vous accueillir chez KIMIAEAT. Complétez le formulaire ci-dessous."
       imageSrc="http://img.b2bpic.net/free-photo/young-woman-posing-with-laptop-street_1153-3538.jpg"
       mediaAnimation="slide-up"
-      videoSrc="https://www.w3schools.com/howto/mov_bbb.mp4"
+      videoSrc="https://www.w3schools.com/howto/mov_bbb.mp4?_wi=2"
     />
   </div>
 
