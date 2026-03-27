@@ -63,7 +63,7 @@ export default function LandingPage() {
         },
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/wide-view-dining-hall-classic-design_114579-2224.jpg"
-      videoSrc="https://www.w3schools.com/howto/mov_bbb.mp4"
+      videoSrc="https://www.w3schools.com/howto/mov_bbb.mp4?_wi=1"
     />
   </div>
 
@@ -124,7 +124,7 @@ export default function LandingPage() {
           name: "Sophie Martin",
           handle: "@sophie_m",
           testimonial: "Une expérience exceptionnelle. Le service était impeccable et la cuisine un pur chef-d'œuvre.",
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-brunette-woman-evening-dress-smiling-holding-champaign-glass_176420-3750.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-brunette-woman-evening-dress-smiling-holding-champaign-glass_176420-3750.jpg?_wi=1",
         },
         {
           id: "2",
@@ -152,7 +152,7 @@ export default function LandingPage() {
           name: "Julie Bernard",
           handle: "@julie_b",
           testimonial: "Le cadre est tout simplement sublime. Une adresse incontournable pour les gourmets.",
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-brunette-woman-evening-dress-smiling-holding-champaign-glass_176420-3750.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-brunette-woman-evening-dress-smiling-holding-champaign-glass_176420-3750.jpg?_wi=2",
         },
       ]}
       title="Ce que disent nos hôtes"
@@ -171,7 +171,7 @@ export default function LandingPage() {
       description="Nous avons hâte de vous accueillir chez KIMIAEAT. Complétez le formulaire ci-dessous."
       imageSrc="http://img.b2bpic.net/free-photo/young-woman-posing-with-laptop-street_1153-3538.jpg"
       mediaAnimation="slide-up"
-      videoSrc="https://www.w3schools.com/howto/mov_bbb.mp4"
+      videoSrc="https://www.w3schools.com/howto/mov_bbb.mp4?_wi=2"
     />
   </div>
 
